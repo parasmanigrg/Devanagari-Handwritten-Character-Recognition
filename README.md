@@ -1,4 +1,3 @@
 # Devanagari-Handwritten-Character-Recognition
-Here is the additional supporting material of the Project.
-It incldues Preparation of Datset and Training of NepNet. 
-The dataset could not be uploaded,so here is the link from where the dataset was acquired: https://archive.ics.uci.edu/ml/machine-learning-databases/00389/
+It incldues Preparation of Datset, Training  and Testing of NepNet. 
+The link from where the dataset was acquired: https://archive.ics.uci.edu/ml/machine-learning-databases/00389/
